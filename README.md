@@ -11,7 +11,6 @@
 
 
 
-
 <p align="center">
   <em>
     A <b>Computer Science</b> Undergraduate <br>
@@ -19,5 +18,12 @@
   <b><i>Don’t enjoy your actions only in the virtual world !!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
+
+<p align="center">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ashutoshwahane" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ashutoshwahane?trk=profile-badge">Ashutosh Wahane</a></div>
+</p>
+
+
+              
 
 
