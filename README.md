@@ -13,9 +13,9 @@
 
 <p align="center">
   <em>
-    A <b>Computer Science</b> Undergraduate <br>
-   <b>Android and iOS  Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><b>I spend      most of the time on GitHub to learn, explore, and contribute to the open-source world.
-  <b><i>Don’t enjoy your actions only in the virtual world !!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+    
+   <b>I'm an experienced Android developer with over 3 years of Experience.<b>I've had the privilege to work on a diverse range of projects like EV vehicle app, Gaming Companion app, Smart home app, Blockchain app and Complex consumer facing app
+  <b><i> When I'm not coding, I love to stay up-to-date with the latest technology trends and also I love video editing. Apart from computer stuff I like dancing and football !!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 
