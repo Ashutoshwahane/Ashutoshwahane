@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ashutosh Wahane</h1>
-<h3 align="center">Software Development Engineer | Android and IOS! | Tech Enthusiast </h3>
+<h3 align="center">Software Development Engineer | Android and IOS! | Kotlin Multiplatform </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ashutoshwahane/" target="blank"><img align="center" src="linkedIn.png" alt="aksia" height="30" width="30" /></a>
 <a href="https://www.instagram.com/ashutoshwahane/" target="blank"><img align="center" src="instagram.png" alt="akash chowrasia" height="30" width="30" /></a>
