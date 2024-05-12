@@ -27,8 +27,9 @@
               
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Shielding Your Android App](https://blog.ashutoshwahane.dev/shielding-your-android-app)
+ - 💫 [Wearable Wonders :  Wear OS Introduction](https://blog.ashutoshwahane.dev/wearable-wonders-wear-os-introduction)
+ - 💯 [Shielding Your Android App](https://blog.ashutoshwahane.dev/shielding-your-android-app)
  - 💯 [Automate Android Development Workflow with GitHub Actions](https://blog.ashutoshwahane.dev/automate-android-development-workflow-with-github-actions)
- - 💯 [Simplified Your Android Workflow](https://blog.ashutoshwahane.dev/simplified-your-android-workflow)<!-- BLOGPOSTS:END -->
+ - 🚀 [Simplified Your Android Workflow](https://blog.ashutoshwahane.dev/simplified-your-android-workflow)<!-- BLOGPOSTS:END -->
 
 
