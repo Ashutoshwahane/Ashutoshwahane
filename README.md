@@ -33,3 +33,4 @@
  - 🚀 [Simplified Your Android Workflow](https://blog.ashutoshwahane.dev/simplified-your-android-workflow)<!-- BLOGPOSTS:END -->
 
 
+[![An image of @ashutoshwahane's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashutoshwahane)](https://holopin.io/@ashutoshwahane)
